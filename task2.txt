@@ -1,0 +1,22 @@
+
+1. Why do you like to join as a Software developer?
+   - As a software developer, I'm keen on joining because it offers a vibrant field where I can use my creativity
+    and problem-solving skills. I enjoy the process of building something from scratch and seeing it come to life. Moreover, the ever-evolving nature of software development keeps me intrigued and excited to learn new things.
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+   - GitHub: GitHub is a fantastic platform that inspires me because it fosters collaboration and learning within the developer community. It's like our very own 'nerd hangout spot' where we share ideas, code snippets, and collaborate on projects.
+   - Visual Studio Code: VS Code is my go-to editor because it's super versatile and easy to use. It's like that reliable friend who always has your back during coding marathons, with its cool features and endless plugins.
+   - Docker: Docker is a game-changer in software deployment, making life easier for developers like me. It's like the 'magic box' that neatly packages our apps and their dependencies, making deployment a breeze.
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+   - Google: Google is like the 'dream destination' for tech enthusiasts like me. It's not just about the cool projects and cutting-edge tech; it's also about the vibrant culture and the chance to work alongside some of the brightest minds in the industry.
+   - Microsoft: Microsoft has always been on my radar because of its diverse range of products and its commitment to empowering developers. Plus, the inclusive work environment and focus on innovation make it a top choice for me.
+   - Wipro: Wipro's vision  is to be a globally respected corporation that provides best-in-class products,solutions and services and to be the most trusted partner for its stakeholders
+
+4. How you position yourself in this industry after 2 years.
+   - In 2 years, I see myself as a skilled and adaptable software developer,  making a mark in the industry with my expertise and passion for technology.  Whether it's working on exciting projects at a top tech company.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+   -Django E-commerce Website: Despite the challenges posed by a slow computer, I am currently working on building an e-commerce website using Django. My role involves designing the database schema, implementing backend logic for product management and order processing, and ensuring the security and scalability of the application. Despite the limitations, I am committed to delivering a high-quality product that meets the needs of users and stakeholders.
+   -React.js E-commerce Website: In parallel, I am also planning to develop a frontend for the e-commerce website using React.js. My role in this project will be to design the user interface, implement interactive features such as product filtering and cart management, and optimize the performance of the website for a seamless user experience. Despite the challenges of working with a slow computer, I am determined to leverage my skills and creativity to deliver a visually appealing and intuitive frontend for the e-commerce platform.
+   -Integration of Django and React.js: Looking ahead, I have plans to integrate the Django backend with the React.js frontend to create a full-stack e-commerce solution. My role in this project will be to establish communication between the frontend and backend, implement RESTful APIs for data exchange, and ensure seamless integration of the two technologies. Despite the technical complexities involved, I am confident in my abilities to overcome challenges and deliver a cohesive and functional e-commerce platform that meets the requirements of modern web development.
